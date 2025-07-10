@@ -15,7 +15,7 @@ Count: 125
 Chatbot initialized. Type 'exit' or 'quit' to end the conversation.
 
 ### 📁 Project Structure
-.
+
 ├── botscript.py          # Main chatbot logic
 
 ├── onepiece_data/        # Folder with local .txt files containing One Piece content
