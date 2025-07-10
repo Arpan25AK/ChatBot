@@ -1,0 +1,516 @@
+Name: Ato Ato no Mi
+User: Giolla
+Type: Paramecia
+Description: Allows the user to transform anything into modern art.
+Canon: Yes
+
+Name: Baku Baku no Mi
+User: Wapol
+Type: Paramecia
+Description: Lets the user eat anything and merge it with themselves.
+Canon: Yes
+
+Name: Bara Bara no Mi
+User: Buggy
+Type: Paramecia
+Description: Splits the body into pieces, immune to cutting.
+Canon: Yes
+
+Name: Bari Bari no Mi
+User: Bartolomeo
+Type: Paramecia
+Description: Creates unbreakable invisible barriers.
+Canon: Yes
+
+Name: Beri Beri no Mi
+User: Very Good
+Type: Paramecia
+Description: Separates the user's body into spheres.
+Canon: Yes
+
+Name: Beta Beta no Mi
+User: Trebol
+Type: Paramecia
+Description: Produces sticky mucus for offense, defense, and mobility.
+Canon: Yes
+
+Name: Bisu Bisu no Mi
+User: Charlotte Cracker
+Type: Paramecia
+Description: Creates and manipulates biscuit soldiers.
+Canon: Yes
+
+Name: Bomu Bomu no Mi
+User: Mr. 5
+Type: Paramecia
+Description: Turns the user's body and anything they touch into bombs.
+Canon: Yes
+
+Name: Choki Choki no Mi
+User: Inazuma
+Type: Paramecia
+Description: Turns limbs into scissors that cut and reshape surroundings like paper.
+Canon: Yes
+
+Name: Doku Doku no Mi
+User: Magellan
+Type: Paramecia
+Description: Creates, controls, and transforms into poison.
+Canon: Yes
+
+Name: Doru Doru no Mi
+User: Mr. 3 (Galdino)
+Type: Paramecia
+Description: Produces and manipulates wax to form constructs.
+Canon: Yes
+
+Name: Doa Doa no Mi
+User: Blueno
+Type: Paramecia
+Description: Creates doors through solid surfaces, including air.
+Canon: Yes
+
+Name: Daiya Daiya no Mi
+User: Grantesoro Tesoro
+Type: Paramecia
+Description: Controls gold, allowing manipulation and weaponization.
+Canon: No
+
+Name: Eleki Eleki no Mi
+User: Ann (One Piece: World Seeker)
+Type: Logia
+Description: Allows the user to generate and become electricity.
+Canon: No
+
+Name: Fude Fude no Mi
+User: Kurozumi Kanjuro
+Type: Paramecia
+Description: Turns drawings into physical real-life versions.
+Canon: Yes
+
+Name: Fuwa Fuwa no Mi
+User: Shiki (Strong World)
+Type: Paramecia
+Description: Allows the user to levitate themselves and non-living objects.
+Canon: No
+
+Name: Gasha Gasha no Mi
+User: Douglas Bullet (Stampede)
+Type: Paramecia
+Description: Allows the user to disassemble and reassemble anything like a mechanical kit.
+Canon: No
+
+Name: Goe Goe no Mi
+User: El Drago (One Piece Movie 1)
+Type: Paramecia
+Description: Emits destructive soundwaves via the user's voice.
+Canon: No
+
+Name: Gomu Gomu no Mi (Hito Hito no Mi, Model: Nika)
+User: Monkey D. Luffy
+Type: Mythical Zoan
+Description: Grants a rubber body; awakening reveals true power as Sun God Nika, with reality-warping freedom.
+Canon: Yes
+
+Name: Gura Gura no Mi
+User: Whitebeard / Blackbeard
+Type: Paramecia
+Description: Generates destructive shockwaves that can destroy the sea and land alike.
+Canon: Yes
+
+Name: Guru Guru no Mi
+User: Buffalo
+Type: Paramecia
+Description: Allows the user to rotate their body like a helicopter.
+Canon: Yes
+
+Name: Hie Hie no Mi
+User: Aokiji (Kuzan)
+Type: Logia
+Description: Grants control over ice; can freeze people and surroundings instantly.
+Canon: Yes
+
+Name: Hira Hira no Mi
+User: Diamante
+Type: Paramecia
+Description: Turns objects into fluttering, cloth-like forms.
+Canon: Yes
+
+Name: Hiso Hiso no Mi
+User: Aphelandra (non-canon)
+Type: Paramecia
+Description: Allows communication with animals.
+Canon: No
+
+Name: Hito Hito no Mi
+User: Tony Tony Chopper
+Type: Zoan
+Description: Allows an animal to turn into a human or hybrid.
+Canon: Yes
+
+Name: Hito Hito no Mi, Model: Daibutsu
+User: Sengoku
+Type: Mythical Zoan
+Description: Allows the user to become a giant golden Buddha.
+Canon: Yes
+
+Name: Hito Hito no Mi, Model: Onyudo
+User: Onimaru
+Type: Mythical Zoan
+Description: Grants transformation into a monk-like yokai (temple guardian).
+Canon: Yes
+
+Name: Hito Hito no Mi, Model: Nika
+User: Monkey D. Luffy
+Type: Mythical Zoan
+Description: Awakened form reveals powers of the Sun God; rubber body with limitless freedom.
+Canon: Yes
+
+Name: Inu Inu no Mi, Model: Dachshund
+User: Lassoo (Gun)
+Type: Zoan
+Description: Grants a gun the ability to become a dachshund dog hybrid.
+Canon: Yes
+
+Name: Inu Inu no Mi, Model: Jackal
+User: Chaka
+Type: Zoan
+Description: Allows transformation into a jackal or jackal-human hybrid.
+Canon: Yes
+
+Name: Inu Inu no Mi, Model: Wolf
+User: Jabra
+Type: Zoan
+Description: Allows transformation into a wolf or wolf-human hybrid.
+Canon: Yes
+
+Name: Inu Inu no Mi, Model: Kyubi no Kitsune
+User: Catarina Devon
+Type: Mythical Zoan
+Description: Transforms user into a mythical nine-tailed fox; allows imitation of other people's appearances.
+Canon: Yes
+
+Name: Inu Inu no Mi, Model: Okuchi no Makami
+User: Yamato
+Type: Mythical Zoan
+Description: Grants form of a divine wolf deity with ice-based powers.
+Canon: Yes
+
+Name: Ishi Ishi no Mi
+User: Pica
+Type: Paramecia
+Description: Merges user with stone and controls massive stone structures.
+Canon: Yes
+
+Name: Ito Ito no Mi
+User: Donquixote Doflamingo
+Type: Paramecia
+Description: Creates razor-sharp threads for manipulation, flight, and controlling others.
+Canon: Yes
+
+Name: Jake Jake no Mi
+User: Kelly Funk
+Type: Paramecia
+Description: Allows user to wear others like clothing and control their bodies.
+Canon: Yes
+
+Name: Kage Kage no Mi
+User: Gecko Moria
+Type: Paramecia
+Description: Controls and steals shadows, which can be implanted into others for power boosts.
+Canon: Yes
+
+Name: Kilo Kilo no Mi
+User: Miss Valentine
+Type: Paramecia
+Description: Changes user’s weight from 1 to 10,000 kilograms at will.
+Canon: Yes
+
+Name: Kin'niku Kin'niku no Mi
+User: Atlas (One Piece: Film Red)
+Type: Paramecia
+Description: Boosts user's muscle mass for super strength.
+Canon: No
+
+Name: Kobu Kobu no Mi
+User: Belo Betty
+Type: Paramecia
+Description: Inspires and empowers people around the user, increasing their strength.
+Canon: Yes
+
+Name: Kori Kori no Mi
+User: Charlotte Amande (anime)
+Type: Paramecia
+Description: Turns objects into ice cream.
+Canon: No
+
+Name: Kuku Kuku no Mi
+User: Charlotte Linlin (Big Mom)
+Type: Paramecia
+Description: Manipulates food ingredients and turns objects into food-based constructs.
+Canon: Yes
+
+Name: Kurage Kurage no Mi
+User: Gairam (non-canon)
+Type: Paramecia
+Description: Allows the user to generate jellyfish tentacles and use jellyfish-based attacks.
+Canon: No
+
+Name: Magu Magu no Mi
+User: Sakazuki (Akainu)
+Type: Logia
+Description: Grants the ability to control, create, and become magma; extreme destructive power.
+Canon: Yes
+
+Name: Maki Maki no Mi
+User: Raizo
+Type: Paramecia
+Description: Allows the user to store and summon objects (including jutsu-like techniques) on scrolls.
+Canon: Yes
+
+Name: Mane Mane no Mi
+User: Bon Clay (Mr. 2)
+Type: Paramecia
+Description: Allows the user to perfectly mimic the face and voice of anyone they've touched.
+Canon: Yes
+
+Name: Mato Mato no Mi
+User: Vander Decken IX
+Type: Paramecia
+Description: Allows user to mark targets and home in any thrown object to hit the target.
+Canon: Yes
+
+Name: Memo Memo no Mi
+User: Charlotte Pudding
+Type: Paramecia
+Description: Allows manipulation and editing of people's memories like film strips.
+Canon: Yes
+
+Name: Mera Mera no Mi
+User: Portgas D. Ace / Sabo
+Type: Logia
+Description: Gives control over fire, including fire body and fire-based attacks.
+Canon: Yes
+
+Name: Mini Mini no Mi
+User: Lily Enstomach (non-canon)
+Type: Paramecia
+Description: Allows the user to shrink themselves to miniature size.
+Canon: No
+
+Name: Mira Mira no Mi
+User: Brûlée
+Type: Paramecia
+Description: Allows entry into and manipulation of the Mirror World.
+Canon: Yes
+
+Name: Moa Moa no Mi
+User: Byrnndi World (Film Z)
+Type: Paramecia
+Description: Enhances size, speed, and power of objects by a set multiplier.
+Canon: No
+
+Name: Modo Modo no Mi
+User: Ain (Film Z)
+Type: Paramecia
+Description: Sends any target 12 years into the past upon contact.
+Canon: No
+
+Name: Mori Mori no Mi
+User: Aramaki (Ryokugyu)
+Type: Logia
+Description: Grants the user power over forests, including plant creation and life absorption.
+Canon: Yes
+
+Name: Nagi Nagi no Mi
+User: Donquixote Rosinante
+Type: Paramecia
+Description: Nullifies all sound within a spherical area; can silence movement or speech.
+Canon: Yes
+
+Name: Nikyu Nikyu no Mi
+User: Bartholomew Kuma
+Type: Paramecia
+Description: Deflects anything, including pain, memories, and people, via paw pads.
+Canon: Yes
+
+Name: Noro Noro no Mi
+User: Foxy
+Type: Paramecia
+Description: Emits Noroma photons that slow down enemies for 30 seconds.
+Canon: Yes
+
+Name: Nui Nui no Mi
+User: Leo
+Type: Paramecia
+Description: Allows the user to stitch and un-stitch things, including people or land.
+Canon: Yes
+
+Name: Ope Ope no Mi
+User: Trafalgar D. Water Law
+Type: Paramecia
+Description: Creates a “Room” space for teleportation, organ removal, slicing, and even immortality.
+Canon: Yes
+
+Name: Ori Ori no Mi
+User: Hina
+Type: Paramecia
+Description: Traps enemies in iron shackles when touched.
+Canon: Yes
+
+Name: Pamu Pamu no Mi
+User: Gladius
+Type: Paramecia
+Description: Causes the user and any object they touch to expand and explode.
+Canon: Yes
+
+Name: Pero Pero no Mi
+User: Charlotte Perospero
+Type: Paramecia
+Description: Produces and manipulates candy to create weapons or restrain opponents.
+Canon: Yes
+
+Name: Pika Pika no Mi
+User: Borsalino (Kizaru)
+Type: Logia
+Description: Grants the user the power of light; move and attack at light speed.
+Canon: Yes
+
+Name: Sara Sara no Mi, Model: Axolotl
+User: Smiley (Caesar’s pet slime)
+Type: Zoan
+Description: Allows transformation into an axolotl; given to a creature made of poisonous gas.
+Canon: Yes
+
+Name: Shari Shari no Mi
+User: Shu
+Type: Paramecia
+Description: Allows the user to spin body parts like wheels.
+Canon: Yes
+
+Name: Shibo Shibo no Mi
+User: Smoothie
+Type: Paramecia
+Description: Drains liquid from objects or people and stores it for power or consumption.
+Canon: Yes
+
+Name: Shiku Shiku no Mi
+User: Drip (non-canon)
+Type: Paramecia
+Description: Grants control over moisture and water in the air.
+Canon: No
+
+Name: Shiro Shiro no Mi
+User: Capone "Gang" Bege
+Type: Paramecia
+Description: Turns user into a fortress; can house and release soldiers and weapons inside their body.
+Canon: Yes
+
+Name: Soru Soru no Mi
+User: Charlotte Linlin (Big Mom)
+Type: Paramecia
+Description: Manipulates souls; can take, implant, or animate inanimate objects with soul fragments.
+Canon: Yes
+
+Name: Supa Supa no Mi
+User: Daz Bones (Mr. 1)
+Type: Paramecia
+Description: Turns the user’s body into steel blades.
+Canon: Yes
+
+Name: Sube Sube no Mi
+User: Alvida
+Type: Paramecia
+Description: Makes the user’s body extremely slippery, deflecting attacks and improving appearance.
+Canon: Yes
+
+Name: Sui Sui no Mi
+User: Senor Pink
+Type: Paramecia
+Description: Allows the user to swim through solid ground and walls as if they were water.
+Canon: Yes
+
+Name: Tama Tama no Mi
+User: Tamago
+Type: Zoan
+Description: Grants transformation into an egg form and hatching into stronger forms.
+Canon: Yes
+
+Name: Toge Toge no Mi
+User: Zala (Miss Doublefinger)
+Type: Paramecia
+Description: Creates spikes from the user’s body for combat.
+Canon: Yes
+
+Name: Toki Toki no Mi
+User: Kozuki Toki
+Type: Paramecia
+Description: Allows the user to send themselves or others into the future.
+Canon: Yes
+
+Name: Ton Ton no Mi
+User: Machvise
+Type: Paramecia
+Description: Allows the user to change their weight up to 100 tons.
+Canon: Yes
+
+Name: Tori Tori no Mi, Model: Falcon
+User: Pell
+Type: Zoan
+Description: Transforms user into a falcon or falcon-human hybrid.
+Canon: Yes
+
+Name: Tori Tori no Mi, Model: Albatross
+User: Morgans
+Type: Zoan
+Description: Transforms user into an albatross or hybrid; used for mobility and media reporting.
+Canon: Yes
+
+Name: Tori Tori no Mi, Model: Phoenix
+User: Marco
+Type: Mythical Zoan
+Description: Grants regeneration via blue phoenix flames; hybrid and full form available.
+Canon: Yes
+
+Name: Uo Uo no Mi, Model: Seiryu
+User: Kaido
+Type: Mythical Zoan
+Description: Turns user into a massive Azure Dragon with elemental attacks.
+Canon: Yes
+
+Name: Ushi Ushi no Mi, Model: Bison
+User: Dalton
+Type: Zoan
+Description: Allows transformation into a bison or bison-human hybrid.
+Canon: Yes
+
+Name: Ushi Ushi no Mi, Model: Giraffe
+User: Kaku
+Type: Zoan
+Description: Turns the user into a giraffe or giraffe-human hybrid.
+Canon: Yes
+
+Name: Wash Wash no Mi
+User: Tsuru
+Type: Paramecia
+Description: Allows the user to wash and hang people out to dry, “cleansing” them of evil.
+Canon: Yes
+
+Name: Yami Yami no Mi
+User: Marshall D. Teach (Blackbeard)
+Type: Logia
+Description: Controls gravity-like darkness, absorbs attacks, and nullifies Devil Fruit powers.
+Canon: Yes
+
+Name: Yomi Yomi no Mi
+User: Brook
+Type: Paramecia
+Description: Revives the user after death once; later allows soul separation and ghost-like movement.
+Canon: Yes
+
+Name: Zushi Zushi no Mi
+User: Fujitora (Issho)
+Type: Paramecia
+Description: Controls gravity; can summon meteors or alter the gravity field.
+Canon: Yes
+
