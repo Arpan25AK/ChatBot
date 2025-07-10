@@ -17,9 +17,13 @@ Chatbot initialized. Type 'exit' or 'quit' to end the conversation.
 ### 📁 Project Structure
 .
 ├── botscript.py          # Main chatbot logic
+
 ├── onepiece_data/        # Folder with local .txt files containing One Piece content
+
 ├── chroma_db/            # Auto-generated vector database by ChromaDB
+
 ├── .env                  # Environment variables (GITHUB_TOKEN)
+
 └── README.md             # Project documentation
 
 ### ⚙️ Setup Instructions
